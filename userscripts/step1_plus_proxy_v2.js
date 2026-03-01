@@ -41,16 +41,21 @@
     } catch (e) {}
 
     // Random title selection
-    var ranTitle = `High Performance Socks5
+    var ranTitle = `FAST HTTP PROXIES ⭐ BEST HTTPS PROXIES
+⭐ BEST HTTPS PROXIES FOR CRACKING ⭐
+✨PROXY METHOD✨ ✅GREAT PROXIES✅
+FAST HTTPS PROXIES ⭐ BEST HTTPS PROXIES
+FRESH PROXY LIST
+HTTPS Mobile/pc Proxies
+HTTPS Mobile Proxies
+HTTPS PC WEB Proxies
 Premium Residential Proxies
-Instant Delivery Proxies
-Private & Secure Socks5
-Unlimited Bandwidth Proxies
-Low Latency Connections
-Reliable Cracking Proxies
-Anonymous Browsing Socks5
-Premium Speed Proxies
-Elite Anonymity Socks5`;
+HTTP/S FRESH PROXY LIST
+⚡️ HTTP PROXIES ⚡️ BEST FOR CRACKING ⚡️
+WORKING PROXY ☄️ HTTP⚡️HTTPS
+HTTPS PROXIES HQ ALL WORKING
+PROXY LIST for bot traffic
+⚡️HQ FRESH http/s list⚡`;
 
     var titles = ranTitle.trim().split('\n');
     var title = titles[Math.floor(Math.random() * titles.length)].trim();
