@@ -41,18 +41,16 @@
     } catch (e) {}
 
     // Random title selection
-    var ranTitle = `LIGHTNING SOCKS5 STRIKEINSTANT DELIVERY
-HYPERSONIC PROXY MISSILESZERO LATENCY
-FLASH SPEED RESIDENTIALAUTO-ROTATION
-QUANTUM SPEED SOCKS5BULLETPROOF IPs
-ULTRA ELITE SOCKS5 EMPIRECRACKING SUPREMACY
-DIAMOND TIER PROXY FORTRESSUNSTOPPABLE SPEED
-EXCLUSIVE RESIDENTIAL KINGDOMZERO BANS
-LEGENDARY SOCKS5 ARSENALCRACKING GODS
-NUCLEAR SOCKS5 WARFARETOTAL DOMINATION
-APOCALYPSE-READY PROXY HORDESURVIVAL GRADE
-SAVAGE SPEED SOCKS5NO MERCY BANS
-DEMON TIER RESIDENTIAL Socks5/Https POSSESSION PROOF`;
+    var ranTitle = `High Performance Socks5
+Premium Residential Proxies
+Instant Delivery Proxies
+Private & Secure Socks5
+Unlimited Bandwidth Proxies
+Low Latency Connections
+Reliable Cracking Proxies
+Anonymous Browsing Socks5
+Premium Speed Proxies
+Elite Anonymity Socks5`;
 
     var titles = ranTitle.trim().split('\n');
     var title = titles[Math.floor(Math.random() * titles.length)].trim();
