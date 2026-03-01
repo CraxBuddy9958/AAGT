@@ -1,1 +1,1 @@
-# AAGT
+# multi-account-bot
